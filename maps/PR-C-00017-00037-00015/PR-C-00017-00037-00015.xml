@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Bacon's commercial &amp; industrial map of Lancashire : showing railways,
+					roads elevations &amp; distances : also local government divisions including
+					parishes with acreages.</title>
+				<respStmt>
+					<resp>Conversion to TEI encoding</resp>
+					<name>Donna Sherman</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>The University of Manchester Library</publisher>
+				<date calendar="Gregorian">2020</date>
+				<pubPlace>
+					<address>
+						<addrLine>The John Rylands Library</addrLine>
+						<street>150 Deansgate</street>
+						<settlement>Manchester</settlement>
+						<postCode>M3 3EH</postCode>
+						<addrLine>
+							<ref target="http://www.library.manchester.ac.uk/specialcollections/">The John Rylands Library</ref>
+						</addrLine>
+						<addrLine>
+							<email>uml.special-collections@manchester.ac.uk</email>
+						</addrLine>
+					</address>
+				</pubPlace>
+				<idno>UkMaJRU-MLSC-MAPD-C17:37 (15)</idno>
+				<availability xml:id="displayImageRights" status="restricted">
+					<p>Zooming image © University of Manchester Library, All rights reserved.</p>
+				</availability>
+				<availability xml:id="downloadImageRights" status="restricted">
+					<licence>Images and Metadata made available for download are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).</licence>
+				</availability>
+				<availability xml:id="metadataRights" status="restricted">
+					<licence>Images and Metadata made available for download are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:lang="eng">
+					<!--removed this xml:id-->
+					<msIdentifier>
+						<country>United Kingdom</country>
+						<region type="county">Greater Manchester</region>
+						<settlement>Manchester</settlement>
+						<institution>The University of Manchester Library</institution>
+						<repository>Main Library Special Collections</repository>
+						<collection>Map Collection (Flat)</collection>
+						<idno>C17:37 (15)</idno>
+					</msIdentifier>
+					<head/>
+					<msContents>
+						<summary>
+							<seg type="para">Close-up on Liverpool and up to Southport, across to
+								Saint Helens.</seg>
+						</summary>
+						<msItem>
+							<title>Bacon's commercial &amp; industrial map of Lancashire : showing
+								railways, roads elevations &amp; distances : also local government
+								divisions including parishes with acreages.</title>
+							<title type="alt">Bacon's commercial and industrial map of
+								Lancashire.</title>
+							<title type="alt">Bacon's excelsior map of Lancashire.</title>
+							<textLang mainLang="eng">English</textLang>
+							<editor key="person_v103226116" ref="http://viaf.org/viaf/103226116" role="ctg">Bacon, George Washington,
+										1830-1921</editor>
+
+							<note>
+								<p>Cover title: Bacon's excelsior map of Lancashire.</p>
+							</note>
+							<note type="scale">[ca. 1:80,000].</note>
+							<note>Dissected and laid on linen.</note>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc form="maps">
+							<supportDesc material="paper">
+								<support>
+									<material>Paper</material>
+								</support>
+								<extent> 1 map, coloured; map: 900 x 1160 mm., folded in cover to
+									250 x 210 mm.</extent>
+							</supportDesc>
+						</objectDesc>
+					</physDesc>
+					<history>
+						<origin>
+							<origDate calendar="Gregorian" notBefore="1875" notAfter="1885">c.1880</origDate>
+							<origPlace>
+								<country ref="http://viaf.org/viaf/142995804">England</country>,
+								<placeName ref="http://viaf.org/viaf/145353708">Manchester</placeName>								
+							</origPlace>
+						</origin>
+					</history>
+					<additional>
+						<adminInfo>
+							<availability status="restricted">
+								<p>The manuscript is available for consultation by any accredited
+									reader.</p>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>Recorded in University of Manchester <ref target="https://www.librarysearch.manchester.ac.uk/permalink/44MAN_INST/elks2a/alma9916504914401631">Library Search</ref></bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy xml:id="LCSH">
+					<bibl>
+						<ref target="http://id.loc.gov/authorities/subjects.html#lcsh">Library of
+							Congress Subject Headings</ref>
+					</bibl>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords scheme="#LCSH">
+					<list>
+						<item>
+							<term>Lancashire (England)--Maps</term>
+						</item>
+						<item>
+							<term target="http://id.loc.gov/authorities/names/n80050950">Liverpool
+								(England)</term>
+						</item>
+						<item>
+							<term target="http://id.loc.gov/authorities/names/n83228083">Southport
+								(England)</term>
+						</item>
+						<item>
+							<term target="http://id.loc.gov/authorities/names/n2002012001">St. Helens
+								(Merseyside, England)</term>
+						</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+         	<change when="2020-06-25">
+            	<persName>Donna Sherman</persName>
+        	</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+        <graphic decls="#document-thumbnail" rend="landscape" url="PR-C-00017-00037-00015-000-00001.jp2"/>
+        <surface xml:id="i1" n="1">
+            <graphic n="JRL17082613" decls="#downloadImageRights #download" rend="landscape" height="5345px" width="6500px" url="PR-C-00017-00037-00015-000-00001.jp2"/>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div>
+                <pb n="1" xml:id="pb-1" facs="#i1"/>
+            </div>
+        </body>
+    </text>
+</TEI>

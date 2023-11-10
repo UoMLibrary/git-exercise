@@ -1,0 +1,278 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+   <teiHeader>
+
+
+      <fileDesc>
+
+
+         <titleStmt>
+            <title>The county palatine of Lancaster</title>
+            <respStmt>
+               <resp> Conversion to TEI encoding</resp>
+               <name> Reetu Child</name>
+            </respStmt>
+         </titleStmt>
+
+
+
+
+         <publicationStmt>
+
+            <publisher>The University of Manchester Library</publisher>
+            <date calendar="Gregorian">2019</date>
+            <pubPlace>
+               <address>
+                  <addrLine>The John Rylands Library</addrLine>
+                  <street>150 Deansgate</street>
+                  <settlement>Manchester</settlement>
+                  <postCode>M3 3EH</postCode>
+                  <addrLine><ref target="http://www.library.manchester.ac.uk/specialcollections/">The John Rylands Library </ref></addrLine>
+                  <addrLine><email>uml.special-collections@manchester.ac.uk</email></addrLine>
+               </address>
+            </pubPlace>
+            <idno>C17:37 (1a)</idno>
+            <availability xml:id="displayImageRights" status="restricted">
+					<p>Zooming image © University of Manchester Library, All rights reserved.</p>
+				</availability>
+				<availability xml:id="downloadImageRights" status="restricted">
+					<licence>Images and Metadata made available for download are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).</licence>
+				</availability>
+				<availability xml:id="metadataRights" status="restricted">
+					<licence>Images and Metadata made available for download are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).</licence>
+				</availability>
+			</publicationStmt>
+
+
+         <sourceDesc>
+            <msDesc xml:lang="eng">
+
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Greater Manchester</region>
+                  <settlement>Manchester</settlement>
+                  <institution>The University of Manchester Library</institution>
+                  <repository>Main Library Special Collections</repository>
+                  <collection>Map Collection (Flat)</collection>
+                  <idno>C17:37 (1a)</idno>
+               </msIdentifier>
+
+               <msContents>
+                  <summary>
+                     <seg type="para">An engraved map on 8 sheets showing the county palatine of
+                        Lancaster. Includes an inset map showing triangulation of the county, and a
+                        decorative title cartouche showing castle and trees. </seg>
+                  </summary>
+
+                  <msItem>
+                     <title>The county palatine of Lancaster</title>
+
+                     <textLang mainLang="eng">English</textLang>
+
+
+                     <editor key="person_v40810361" ref="http://viaf.org/viaf/40810361" role="srv">Yates, William, 1738-1802</editor><editor ref=" http://viaf.org/viaf/96886381" role="egr">Billinge, Thomas, 1741-1816</editor>
+
+                     <note type="scale"> [ca. 1:43,000] </note>
+                     <note>
+                        <p>Relief shown by hachures and shading.</p>
+                        <p>MS notes on front cover: 'Mr. Thos. Parke / to /
+                           Mr. Dixon &amp; others / [bracket] assignment of / effects for the
+                           benefit of / creditors / Dated 22 June 1772'; on rear cover: 'Joseph
+                           Butterworth'.</p>
+                        <p>Eighteenth-century full parchment over
+                           boards.</p>
+                        <p>Possibly printed as well as engraved by Thomas Billinge, who was a
+                           printer, publisher, bookseller, engraver/etcher, etc. and traded at
+                           Liverpool, 1765-1816.</p>
+                     </note>
+
+                     <msItem n="1">
+
+                        <locus from="1" to="1">1</locus>
+                        <title>Sheet 1: Title cartouche showing castle and trees</title>
+                     </msItem>
+                     <msItem n="2">
+                        <locus from="2" to="2">2</locus>
+                        <title>Sheet 2: Map showing parts of Cumberland and Westmoreland</title>
+                     </msItem>
+
+                     <msItem n="3">
+                        <locus from="3" to="3">3</locus>
+                        <title>Sheet 3: Map showing Morecambe Bay</title>
+                     </msItem>
+                     <msItem n="4">
+                        <locus from="4" to="4">4</locus>
+                        <title>Sheet 4: Insert on map shows triangulation of the county</title>
+                     </msItem>
+                     <msItem n="5">
+                        <locus from="5" to="5">5</locus>
+                        <title>Sheet 5: Map show part of the Irish sea and the River Ribble. Also
+                           shows part of Leyland and the Amounderness Hundred</title>
+                     </msItem>
+                     <msItem n="6">
+                        <locus from="6" to="6">6</locus>
+                        <title>Sheet 6: Maps shows part of the Blackburn Hundred and the Salford
+                           Hundred</title>
+                     </msItem>
+
+                     <msItem n="7">
+                        <locus from="7" to="7">7</locus>
+                        <title>Sheet 7: Map shows part of Cheshire, the West Derby Hundred,
+                           Flintshire, the River Mersey and the River Dee. "Explanation" (legend) in
+                           the top left corner</title>
+                     </msItem>
+                     <msItem n="8">
+                        <locus from="8" to="8">8</locus>
+                        <title>Sheet 8: Map shows Manchester and part of Cheshire</title>
+                     </msItem>
+                  </msItem>
+
+               </msContents>
+
+
+               <physDesc>
+
+                  <objectDesc form="maps">
+                     <supportDesc material="paper">
+                        <support>
+                           <material>Paper</material>
+                        </support>
+                        <extent>1 illustrated map on 8 sheets, folded and bound in a volume; sheets:
+                           560 x 710 mm, folded once and bound into a volume 560 x 370 mm. </extent>
+
+
+
+
+                     </supportDesc>
+
+
+
+                  </objectDesc>
+
+
+
+
+
+
+
+
+
+
+
+
+               </physDesc>
+
+               <history>
+
+                  <origin>
+                     <origDate calendar="Gregorian" notBefore="1786" notAfter="1786">1786</origDate>
+                     <origPlace><country ref="http://viaf.org/viaf/142995804">England</country>,<placeName ref="http://viaf.org/viaf/138371274">
+                           Liverpool </placeName></origPlace>
+                  </origin>
+
+
+               </history>
+
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Description derived from <ref target="http://man.ac.uk/6pTMPl">University of Manchester Library Search.</ref></source>
+                     </recordHist>
+
+                     <availability status="restricted">
+                        <p>The map is available for consultation by any accredited reader.
+                           reader.</p>
+                     </availability>
+
+                  </adminInfo>
+
+               </additional>
+
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+
+      <encodingDesc>
+
+         <classDecl>
+
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/subjects.html#lcsh"> Library of
+                     Congress Subject Headings </ref>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+
+      </encodingDesc>
+
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <term target="http://id.loc.gov/authorities/names/n79043438">Lancashire
+                        (England)</term>
+                  </item>
+
+
+
+                  <item>
+                     <term>Lancashire (England)--Maps</term>
+                  </item>
+
+
+               </list>
+
+
+            </keywords>
+
+         </textClass>
+      </profileDesc>
+         <change when="2019-08-01">
+            <persName>Reetu Child</persName>
+         </change>
+   </teiHeader>
+   <facsimile>
+        <graphic decls="#document-thumbnail" rend="landscape" url="PR-C-00017-00037-00001-A-000-00001.jp2"/>
+        <surface xml:id="i1" n="1">
+            <graphic n="JRL16120688" decls="#downloadImageRights #download" rend="landscape" height="5401px" width="7000px" url="PR-C-00017-00037-00001-A-000-00001.jp2"/>
+        </surface>
+        <surface xml:id="i2" n="2">
+            <graphic n="JRL16120689" decls="#downloadImageRights #download" rend="landscape" height="5423px" width="7000px" url="PR-C-00017-00037-00001-A-000-00002.jp2"/>
+        </surface>
+        <surface xml:id="i3" n="3">
+            <graphic n="JRL16120690" decls="#downloadImageRights #download" rend="landscape" height="5425px" width="7000px" url="PR-C-00017-00037-00001-A-000-00003.jp2"/>
+        </surface>
+        <surface xml:id="i4" n="4">
+            <graphic n="JRL16120691" decls="#downloadImageRights #download" rend="landscape" height="5435px" width="7000px" url="PR-C-00017-00037-00001-A-000-00004.jp2"/>
+        </surface>
+        <surface xml:id="i5" n="5">
+            <graphic n="JRL16120692" decls="#downloadImageRights #download" rend="landscape" height="5385px" width="7000px" url="PR-C-00017-00037-00001-A-000-00005.jp2"/>
+        </surface>
+        <surface xml:id="i6" n="6">
+            <graphic n="JRL16120693" decls="#downloadImageRights #download" rend="landscape" height="5450px" width="7000px" url="PR-C-00017-00037-00001-A-000-00006.jp2"/>
+        </surface>
+        <surface xml:id="i7" n="7">
+            <graphic n="JRL16120694" decls="#downloadImageRights #download" rend="landscape" height="5429px" width="7000px" url="PR-C-00017-00037-00001-A-000-00007.jp2"/>
+        </surface>
+        <surface xml:id="i8" n="8">
+            <graphic n="JRL16120695" decls="#downloadImageRights #download" rend="landscape" height="5412px" width="7000px" url="PR-C-00017-00037-00001-A-000-00008.jp2"/>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div>
+                <pb n="1" xml:id="pb-1" facs="#i1"/>
+                <pb n="2" xml:id="pb-2" facs="#i2"/>
+                <pb n="3" xml:id="pb-3" facs="#i3"/>
+                <pb n="4" xml:id="pb-4" facs="#i4"/>
+                <pb n="5" xml:id="pb-5" facs="#i5"/>
+                <pb n="6" xml:id="pb-6" facs="#i6"/>
+                <pb n="7" xml:id="pb-7" facs="#i7"/>
+                <pb n="8" xml:id="pb-8" facs="#i8"/>
+            </div>
+        </body>
+    </text>
+</TEI>

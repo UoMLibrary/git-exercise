@@ -6,9 +6,10 @@
 
       <fileDesc>
 
-
          <titleStmt>
-            <title>Drink map of Manchester</title>
+            <title>Laurie's new map of the county palatine of Lancaster divided into hundreds,
+               exhibiting the mail direct &amp; principal crofts roads, gentlemens seats, canals
+               etc.</title>
             <respStmt>
                <resp> Conversion to TEI encoding</resp>
                <name> Reetu Child</name>
@@ -32,7 +33,7 @@
                   <addrLine><email>uml.special-collections@manchester.ac.uk</email></addrLine>
                </address>
             </pubPlace>
-            <idno>C17:70 Manchester (3)</idno>
+            <idno>C17:70 Manchester (19)</idno>
             <availability xml:id="displayImageRights" status="restricted">
 					<p>Zooming image © University of Manchester Library, All rights reserved.</p>
 				</availability>
@@ -56,29 +57,30 @@
                   <repository>Main Library Special Collections</repository>
                   <collection>Map Collection (Flat)</collection>
 
-                  <idno>C17:70 Manchester (3)</idno>
+                  <idno>C17:70 Manchester (19)</idno>
 
                </msIdentifier>
 
                <msContents>
                   <summary>
-                     <seg type="para">This is a reproduction of a document prepared for the
-                        information and use of the City Magistrates. It appeared in the Manchester
-                        Guardian January 5th 1889. Beerhouses are indicated with a circular dot.
-                        Licensed victuallers are indicated by a triangular symbol. Licensed grocers
-                        are indicated by a square mark. Premises selling beer are marked by the
-                        symbol L. Premises selling "sweets" (British wines) are marked with the
-                        symbol O. Wholesale dealers are marked X.</seg>
+                     <seg type="para">Map of the county palatine of Lancaster. Shows inset map,
+                        "Continuation from Coulton, northward". Explanation given on market towns,
+                        parishes and roads. </seg>
                   </summary>
 
                   <msItem>
-                     <title>Drink map of Manchester</title>
-
+                     <title>Laurie's new map of the county palatine of Lancaster divided into
+                        hundreds, exhibiting the mail direct &amp; principal crofts roads,
+                        gentlemens seats, canals etc.</title>
+                     <title type="alt">County palatine of Lancaster</title>
 
                      <textLang mainLang="eng">English</textLang>
 
 
-                     <editor key="person_v133261264" ref="http://viaf.org/viaf/133261264" role="pbl">United Kingdom Alliance</editor>
+                     <editor role="ctg">Ebden, William</editor><editor role="pbl">R. H. Laurie (London)</editor>
+                     <!--<note type = "co-ordinates">W 3°23'00"-\-W 1°57'00"/N 54°15'00"-\-N 53°18'00"</note>-->
+                     <note><p>Co-ordinates: W 3°23'00"-\-W 1°57'00"/N 54°15'00"-\-N
+                        53°18'00"</p></note>
 
                   </msItem>
                </msContents>
@@ -91,8 +93,7 @@
                         <support>
                            <material>Paper</material>
                         </support>
-                        <extent>1 map; coloured; map: 600 x 440 mm; sheet: 710 x 580 mm. </extent>
-
+                        <extent>1 map; coloured; map: 720 x 560 mm; sheet: 780 x 640 mm. </extent>
 
 
 
@@ -109,22 +110,32 @@
 
 
 
+
+
+
+
                </physDesc>
 
                <history>
 
                   <origin>
-                     <origDate calendar="Gregorian" notBefore="1889" notAfter="1889">1889</origDate>
-                     <origPlace><country ref="http://viaf.org/viaf/142995804">England</country>,<placeName ref="http://viaf.org/viaf/145353708">
-                           Manchester </placeName></origPlace>
+                     <origDate calendar="Gregorian" when="1832-01-10">10th January 1832</origDate>
+                     <origPlace><country ref="http://viaf.org/viaf/142995804">England</country>,<placeName ref="http://viaf.org/viaf/261467287">
+                           London </placeName></origPlace>
                   </origin>
-
+                  <provenance>
+                     <name type="corporation" role="fmo" ref="http://viaf.org/viaf/158809476">
+                        <orgName type="standard">Manchester Geographical
+                           Society</orgName>
+                        <orgName type="display">Manchester Dock Company</orgName>
+                     </name>
+                  </provenance>
                </history>
 
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Description derived from <ref target="http://man.ac.uk/Ks0ItN">University of Manchester Library Search.</ref></source>
+                        <source>Description derived from <ref target="http://man.ac.uk/wGHbd6">University of Manchester Library Search.</ref></source>
                      </recordHist>
 
                      <availability status="restricted">
@@ -159,15 +170,13 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n81042321">Manchester
+                     <term target="http://id.loc.gov/authorities/names/n79043438">Lancashire
                         (England)</term>
                   </item>
+
+
                   <item>
-                     <term>Great Britain--Social history</term>
-                  </item>
-                  <item>
-                     <term key="subject_sh2011003686">Bars
-                        (Drinking establishments)--England </term>
+                     <term>Lancashire (England)--Maps</term>
                   </item>
 
                </list>
@@ -176,7 +185,6 @@
             </keywords>
          </textClass>
       </profileDesc>
-
       <revisionDesc>
          <change when="2019-08-01">
             <persName>Reetu Child</persName>
@@ -184,9 +192,9 @@
       </revisionDesc>
    </teiHeader>
    <facsimile>
-        <graphic decls="#document-thumbnail" rend="portrait" url="PR-C-00017-00070-MANCHESTER-00003-000-00001.jp2"/>
+        <graphic decls="#document-thumbnail" rend="portrait" url="PR-C-00017-00070-MANCHESTER-00019-000-00001.jp2"/>
         <surface xml:id="i1" n="1">
-            <graphic n="JRL1000002DC" decls="#downloadImageRights #download" rend="portrait" height="6500px" width="5289px" url="PR-C-00017-00070-MANCHESTER-00003-000-00001.jp2"/>
+            <graphic n="JRL16120712" decls="#downloadImageRights #download" rend="portrait" height="7000px" width="5690px" url="PR-C-00017-00070-MANCHESTER-00019-000-00001.jp2"/>
         </surface>
     </facsimile>
     <text>

@@ -1,0 +1,283 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+   <teiHeader>
+
+
+      <fileDesc>
+
+
+         <titleStmt>
+            <title>A Bird's-eye view of Manchester in 1889</title>
+            <respStmt>
+               <resp> Conversion to TEI encoding</resp>
+               <name> Reetu Child</name>
+            </respStmt>
+         </titleStmt>
+
+
+
+         <publicationStmt>
+
+            <publisher>The University of Manchester Library</publisher>
+            <date calendar="Gregorian">2019</date>
+            <pubPlace>
+               <address>
+                  <addrLine>The John Rylands Library</addrLine>
+                  <street>150 Deansgate</street>
+                  <settlement>Manchester</settlement>
+                  <postCode>M3 3EH</postCode>
+                  <addrLine><ref target="http://www.library.manchester.ac.uk/specialcollections/">The John Rylands Library </ref></addrLine>
+                  <addrLine><email>uml.special-collections@manchester.ac.uk</email></addrLine>
+               </address>
+            </pubPlace>
+            <idno>C17:70 Manchester (23)</idno>
+            <availability xml:id="displayImageRights" status="restricted">
+					<p>Zooming image © University of Manchester Library, All rights reserved.</p>
+				</availability>
+				<availability xml:id="downloadImageRights" status="restricted">
+					<licence>Images and Metadata made available for download are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).</licence>
+				</availability>
+				<availability xml:id="metadataRights" status="restricted">
+					<licence>Images and Metadata made available for download are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).</licence>
+				</availability>
+			</publicationStmt>
+
+
+         <sourceDesc>
+            <msDesc xml:lang="eng">
+
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Greater Manchester</region>
+                  <settlement>Manchester</settlement>
+                  <institution>The University of Manchester Library</institution>
+                  <repository>Main Library Special Collections</repository>
+                  <collection>Map Collection (Flat)</collection>
+
+                  <idno>C17:70 Manchester (23)</idno>
+
+
+               </msIdentifier>
+
+               <msContents>
+                  <summary>
+                     <seg type="para">A detailed illustrated bird's eye view of nineteenth century
+                        Manchester, England from 1889 by H. W. Brewer. </seg>
+                     <seg type="para"/>
+                  </summary>
+
+                  <msItem>
+                     <title>A Bird's-eye view of Manchester in 1889</title>
+                     <title type="alt"/>
+
+                     <textLang mainLang="eng">English</textLang>
+
+
+                     <editor role="ill">Brewer, Henry William, 1836-1903 </editor><editor role="pbl">Graphic (London)</editor>
+                     <note><p>Note at bottom right hand corner of map 'Supplement to The Graphic,
+                           November 9, 1889'.</p>
+                        <p>Hand coloured post publication.</p>
+                        <p>A key lists 70 different places of
+                        interest.</p><!-- <list>
+                           <item> 1. Cathedral </item>
+                           <item> 2. Exchange Station Approach </item>
+                           <item> 3. Victoria Bridge </item>
+                           <item> 4. Victoria Terrace </item>
+                           <item> 5. Victoria Street </item>
+                           <item> 6. Salford </item>
+                           <item> 7. Blackfriars Bridge </item>
+                           <item> 8. St Mary's Church </item>
+                           <item> 9. Grosvenor Buildings and Hotel </item>
+                           <item> 10. Deansgate </item>
+                           <item> 11. St Mary's Gate </item>
+                           <item> 12. Victoria Buildings Hotel </item>
+                           <item> 13. Exchange </item>
+                           <item> 14. Market Place </item>
+                           <item> 15. Courier Office </item>
+                           <item> 16. Corporation Street </item>
+                           <item> 17. Civil Service Stores - Wholesale Department </item>
+                           <item> 18. Fennel Street </item>
+                           <item> 19. Grammar School </item>
+                           <item> 20. Old College </item>
+                           <item> 21. Smithfield </item>
+                           <item> 22. Great Ancoats Street </item>
+                           <item> 23. Ancoats Hall </item>
+                           <item> 24. St Andrew's Church </item>
+                           <item> 25. Nicholl's Hospital </item>
+                           <item> 26. Ardwick Green </item>
+                           <item> 27. London Road Station </item>
+                           <item> 28. Portland Place </item>
+                           <item> 29. City Police Courts </item>
+                           <item> 30. Rochdale Canal </item>
+                           <item> 31. Infirmary </item>
+                           <item> 32. Piccadilly </item>
+                           <item> 33. Lewis </item>
+                           <item> 34. Watts' Warehouse </item>
+                           <item> 35. Victoria Park </item>
+                           <item> 36. Church of the Holy Name </item>
+                           <item> 37. Eye Hospital </item>
+                           <item> 38. Victoria University - Owens College </item>
+                           <item> 39. Chorlton Town Hall </item>
+                           <item> 40. School of Art </item>
+                           <item> 41. Independent Church </item>
+                           <item> 42. Grosvenor </item>
+                           <item> 43. Square All Saints' Church </item>
+                           <item> 44. Presbyterian Church </item>
+                           <item> 45. St James's Church </item>
+                           <item> 46. Post Office </item>
+                           <item> 47. Reform Club </item>
+                           <item> 48. Royal Institution </item>
+                           <item> 49. Athenaeum </item>
+                           <item> 50. Town Hall </item>
+                           <item> 51. St James's Hall </item>
+                           <item> 52. St Peter's Church</item>
+                           <item> 53. Reference Library </item>
+                           <item> 54. Albert Memorial </item>
+                           <item> 55. St Ann's Church </item>
+                           <item> 56. St Mary's Roman Catholic Church </item>
+                           <item> 57. Free Trade Hall </item>
+                           <item> 58. Theatre Royal </item>
+                           <item> 59. Young Men's Christian Association </item>
+                           <item> 60. Central Station, 61. St Philip's Church </item>
+                           <item> 61. St Philip's Church </item>
+                           <item> 62. Holy Trinity Church </item>
+                           <item> 63. St Mary Moss Lane </item>
+                           <item> 64. Alexandra Park </item>
+                           <item> 65. Bridgwater Viaduct </item>
+                           <item> 66. Bridgwater Canal Knott Mill Station </item>
+                           <item> 67. St Matthew's Church </item>
+                           <item> 68. Tonman Market </item>
+                           <item> 69. Dean's Gate Market </item>
+                           <item> 70. St John's Church </item>
+                        </list>-->
+                     </note>
+                  </msItem>
+               </msContents>
+
+
+               <physDesc>
+
+                  <objectDesc form="maps">
+                     <supportDesc material="paper">
+                        <support>
+                           <material>Paper</material>
+                        </support>
+                        <extent>1 illustrated map; hand coloured; map: 1200 x 480 mm; sheet: 1200 x
+                           580 mm. </extent>
+
+
+
+
+                     </supportDesc>
+
+
+
+                  </objectDesc>
+
+
+
+
+
+
+
+
+
+
+
+               </physDesc>
+
+               <history>
+
+                  <origin>
+                     <origDate calendar="Gregorian" notBefore="1889" notAfter="1889">1889</origDate>
+                     <origPlace><country ref="http://viaf.org/viaf/142995804">England</country>,<placeName ref="http://viaf.org/viaf/261467287">
+                           London </placeName></origPlace>
+                  </origin>
+
+               </history>
+
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Description derived from <ref target="http://man.ac.uk/gV11wE">University of Manchester Library Search.</ref></source>
+                     </recordHist>
+
+                     <availability status="restricted">
+                        <p>The map is available for consultation by any accredited reader.
+                           reader.</p>
+                     </availability>
+
+                  </adminInfo>
+
+               </additional>
+
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+
+      <encodingDesc>
+
+         <classDecl>
+
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/subjects.html#lcsh"> Library of
+                     Congress Subject Headings </ref>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+
+      </encodingDesc>
+
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <term target="http://id.loc.gov/authorities/names/n81042321">Manchester
+                        (England)</term>
+                  </item>
+
+
+                  <item>
+                     <term>Sanitation--England</term>
+                  </item>
+                  <item>
+                     <term>Manchester (England)--Maps</term>
+                  </item>
+                  <item>
+                     <term>Manchester (England)--Buildings, structures, etc.--Maps</term>
+                  </item>
+                  <item>
+                     <term>Panoramas--England</term>
+                  </item>
+                  <item>
+                     <term>Panoramic views--1860-1890</term>
+                  </item>
+               </list>
+
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2019-08-01">
+            <persName>Reetu Child</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+        <graphic decls="#document-thumbnail" rend="landscape" url="PR-C-00017-00070-MANCHESTER-00023-000-00001.jp2"/>
+        <surface xml:id="i1" n="1">
+            <graphic n="JRL18082507" decls="#downloadImageRights #download" rend="landscape" height="4070px" width="8000px" url="PR-C-00017-00070-MANCHESTER-00023-000-00001.jp2"/>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div>
+                <pb n="1" xml:id="pb-1" facs="#i1"/>
+            </div>
+        </body>
+    </text>
+</TEI>

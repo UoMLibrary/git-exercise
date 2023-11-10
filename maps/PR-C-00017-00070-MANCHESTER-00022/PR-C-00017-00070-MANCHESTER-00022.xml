@@ -1,0 +1,460 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Adshead's twenty four illustrated maps of the township of Manchester :
+					divided into municipal wards : corrected to the 1st. May, 1851.</title>
+				<respStmt>
+					<resp>Conversion to TEI encoding</resp>
+					<name>Donna Sherman</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>The University of Manchester Library</publisher>
+				<date calendar="Gregorian">2020</date>
+				<pubPlace>
+					<address>
+						<addrLine>The John Rylands Library</addrLine>
+						<street>150 Deansgate</street>
+						<settlement>Manchester</settlement>
+						<postCode>M3 3EH</postCode>
+						<addrLine>
+							<ref target="http://www.library.manchester.ac.uk/specialcollections/">The John Rylands Library</ref>
+						</addrLine>
+						<addrLine>
+							<email>uml.special-collections@manchester.ac.uk</email>
+						</addrLine>
+					</address>
+				</pubPlace>
+				<idno>UkMaJRU-MLSC-MAPD-C17:70 Manchester (22)</idno>
+				<availability xml:id="displayImageRights" status="restricted">
+					<p>Zooming image © University of Manchester Library, All rights reserved.</p>
+				</availability>
+				<availability xml:id="downloadImageRights" status="restricted">
+					<licence>Images and Metadata made available for download are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).</licence>
+				</availability>
+				<availability xml:id="metadataRights" status="restricted">
+					<licence>Images and Metadata made available for download are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:lang="eng">
+					<msIdentifier>
+						<country>United Kingdom</country>
+						<region type="county">Greater Manchester</region>
+						<settlement>Manchester</settlement>
+						<institution>The University of Manchester Library</institution>
+						<repository>Main Library Special Collections</repository>
+						<collection>Map Collection (Flat)</collection>
+						<idno>C17:70 Manchester (22)</idno>
+					</msIdentifier>
+					<head/>
+					<msContents>
+						<summary>
+							<seg type="para"> Collection of twenty four illustrated maps, reference
+								to the maps indicates that cross-hatching represents public
+								buildings; heavy diagonal shading represents warehouses and places
+								of business; light diagonal shading represents private houses.</seg>
+							<seg type="para"> Some sheets are hand coloured: mills and works are
+								coloured orange; public houses, hotels and inns are coloured pink;
+								water courses are coloured blue.</seg>
+							<seg type="para"> Index map <locus from="24" to="24">(sheet 24)</locus> lists wards, street 
+								names, key buildings and the sheets on which they appear.
+								Index map also shows 1841 and 1851 population data of the township of
+								Manchester, borough of Manchester, and Manchester and
+								Salford combined.</seg>
+						</summary>
+						<msItem>
+							<title>Adshead's twenty four illustrated maps of the township of
+								Manchester : divided into municipal wards : corrected to the 1st.
+								May, 1851.</title>
+							<textLang mainLang="eng">English</textLang>
+							<editor key="person_v44710409" ref="http://viaf.org/viaf/44710409" role="pbl">Adshead, Joseph, 1800-1861.</editor><editor role="srv">Thornton, Richard</editor>
+							<msItem n="1">
+								<locus from="1" to="1">1</locus>
+								<title>Township of Manchester no.1: St Anns Ward and St James Ward
+									(part 1).</title>
+								<note>
+									<p>Shows Manchester Royal Infirmary, Piccadilly, Manchester
+										Exchange and St Ann's Square</p>
+								</note>
+							</msItem>
+							<msItem n="2">
+								<locus from="2" to="2">2</locus>
+								<title>Township of Manchester no.2: St Johns Ward (part 1) Exchange
+									Ward (part 1).</title>
+								<note>
+									<p>Shows River Irwell and Deansgate.</p>
+								</note>
+							</msItem>
+							<msItem n="3">
+								<locus from="3" to="3">3</locus>
+								<title>Township of Manchester no.3: St Johns Ward (part 2).</title>
+								<note>
+									<p>Shows London and Northwestern Railway, Water Street,
+										Liverpool Street and Quay Street.</p>
+								</note>
+							</msItem>
+							<msItem n="4">
+								<locus from="4" to="4">4</locus>
+								<title>Township of Manchester no.4: St Johns Ward (part 3).</title>
+								<note>
+									<p>Shows Castlefield, Knott Mill, River Irwell, Rochdale Canal,
+										Bridgewater Canal and River Medlock.</p>
+								</note>
+							</msItem>
+							<msItem n="5">
+								<locus from="5" to="5">5</locus>
+								<title>Township of Manchester no.5: St James Ward (part 2).</title>
+								<note>
+									<p>Shows Deansgate, Peter Street, Free Trade Hall, Theatre
+										Royal, Natural History Museum and Rochdale Canal.</p>
+								</note>
+							</msItem>
+							<msItem n="6">
+								<locus from="6" to="6">6</locus>
+								<title>Township of Manchester no.6: Oxford Ward (part 1).</title>
+								<note>
+									<p>Shows St Peter's Square, Oxford Street, Bridgewater Street,
+										River Medlock and Rochdale Canal.</p>
+								</note>
+							</msItem>
+							<msItem n="7">
+								<locus from="7" to="7">7</locus>
+								<title>Township of Manchester no.7: Oxford Ward (part 2).</title>
+								<note>
+									<p>Shows Victoria Basin and River Medlock, London Road,
+										Sackville Street, Chorlton Street and Granby Row.</p>
+								</note>
+							</msItem>
+							<msItem n="8">
+								<locus from="8" to="8">8</locus>
+								<title>Township of Manchester no.8: St Clements Ward (part
+									2).</title>
+								<note>
+									<p>Shows London Road Station, Fairfiled Street, Store Street and
+										parts of Great Ancoats Street and Ashton Canal.</p>
+								</note>
+							</msItem>
+							<msItem n="9">
+								<locus from="9" to="9">9</locus>
+								<title>Township of Manchester no.9: St Clements Ward (part
+									1).</title>
+								<note>
+									<p>Shows Stevenson Square, Newton Street, Dale Street, Great
+										Anocats Street, London Road, Rochdale Canal and Ashton
+										Canal.</p>
+								</note>
+							</msItem>
+							<msItem n="10">
+								<locus from="10" to="10">10</locus>
+								<title>Township of Manchester no.10: Collegiate Church Ward (part 1)
+									Exchange Ward (part 2).</title>
+								<note>
+									<p>Shows Market Street, High Street, Lever Street, Smithfield
+										market and Stevenson Square.</p>
+								</note>
+							</msItem>
+							<msItem n="11">
+								<locus from="11" to="11">11</locus>
+								<title>Township of Manchester no.11: Collegiate Church Ward (part
+									2).</title>
+								<note>
+									<p>Shows Hunts Bank, Walkers Croft, Miller Street, River Irk,
+										River Irwell, Manchester Cathedral, Victoria Station and
+										Manchester Union Workhouse.</p>
+								</note>
+							</msItem>
+							<msItem n="12">
+								<locus from="12" to="12">12</locus>
+								<title>Township of Manchester no.12: Collegiate Church Ward (part
+									3).</title>
+								<note>
+									<p>Shows Red Bank and River Irk.</p>
+								</note>
+							</msItem>
+							<msItem n="13">
+								<locus from="13" to="13">13</locus>
+								<title>Township of Manchester no.13: St Michaels Ward (part
+									1).</title>
+								<note>
+									<p>Shows Angel Street, Rochdale Road, Oldham Road, St Michael's
+										Church, and Oldham Road Railway Station.</p>
+								</note>
+							</msItem>
+							<msItem n="14">
+								<locus from="14" to="14">14</locus>
+								<title>Township of Manchester no.14: New Cross Ward (part
+									1).</title>
+								<note>
+									<p>Shows Great Ancoats Street, Oldham Road, Jersey Street and
+										Rochdale Canal.</p>
+								</note>
+							</msItem>
+							<msItem n="15">
+								<locus from="15" to="15">15</locus>
+								<title>Township of Manchester no.15: New Cross Ward (part
+									2).</title>
+								<note>
+									<p>Shows Great Ancoats Street, Canal Street, Mill Street, Ashton
+										Canal and Rochdale Canal.</p>
+								</note>
+							</msItem>
+							<msItem n="16">
+								<locus from="16" to="16">16</locus>
+								<title>Township of Manchester no.16: New Cross Ward (part
+									3).</title>
+								<note>
+									<p>Shows Great Ancoats Street, Pollard Street, River Medlock and
+										Ashton Canal.</p>
+								</note>
+							</msItem>
+							<msItem n="17">
+								<locus from="17" to="17">17</locus>
+								<title>Township of Manchester no.17: New Cross Ward (part
+									4).</title>
+								<note>
+									<p>Shows Ashton Canal, River Medlock and Medlock Dam.</p>
+								</note>
+							</msItem>
+							<msItem n="18">
+								<locus from="18" to="18">18</locus>
+								<title>Township of Manchester no.18: New Cross Ward (part
+									5).</title>
+								<note>
+									<p>Shows Shooters Brook, Bradford Road, River Medlock and Ashton
+										Canal.</p>
+								</note>
+							</msItem>
+							<msItem n="19">
+								<locus from="19" to="19">19</locus>
+								<title>Township of Manchester no.19: New Cross Ward (part
+									6).</title>
+								<note>
+									<p>Shows Oldham Road, Rochdale Canal and Newton Brook.</p>
+								</note>
+							</msItem>
+							<msItem n="20">
+								<locus from="20" to="20">20</locus>
+								<title>Township of Manchester no.20: St Michaels Ward (part
+									2).</title>
+								<note>
+									<p>Shows Rochdale Road, Oldham Road, River Irk, and Vauxhall
+										Gardens, St Patrick's Chapel and Nunnery.&gt;</p>
+								</note>
+							</msItem>
+							<msItem n="21">
+								<locus from="21" to="21">21</locus>
+								<title>Township of Manchester no.21: St Michaels Ward (part
+									3).</title>
+								<note>
+									<p>Shows Rochdale Road, Oldham Road, River Irk and Collyhurst
+										Sandstone Quarry.</p>
+								</note>
+							</msItem>
+							<msItem n="22">
+								<locus from="22" to="22">22</locus>
+								<title>Township of Manchester no.22: St Michaels Ward (part
+									4).</title>
+								<note>
+									<p>Shows Rochdale Road, Lamb Lane, Moss Brook and River Irk.</p>
+								</note>
+							</msItem>
+							<msItem n="23">
+								<locus from="23" to="23">23</locus>
+								<title>Township of Manchester no.23: St Micahels Ward (part
+									5).</title>
+								<note>
+									<p>Shows Rochdale Road, Queen's Park, Manchester General Cemetry
+										and Harpurhey.</p>
+								</note>
+							</msItem>
+							<msItem n="24">
+								<locus from="24" to="24">24</locus>
+								<title>&gt;Township of Manchester no.24: Index map: indicating the
+									situation of public buildings, churches, chapels, schools,
+									highways and streets.</title>
+								<note>
+									<p>Shows 1841 and 1851 population data of the township of
+										Manchester, borough of Manchester, and Manchester and
+										Salford combined.</p>
+									<p>Lists wards and the sheets on which they appear</p>
+									<p>Lists key buildings and street names and the sheets on which
+										they appear</p>
+								</note>
+							</msItem>
+						</msItem>
+
+					</msContents>
+					<physDesc>
+						<objectDesc form="maps">
+							<supportDesc material="paper">
+								<support>
+									<material>Paper</material>
+								</support>
+								<extent> Multi-sheet map, on 24 sheets 840 mm x 1040 mm. (some slight
+									variation). </extent>
+							</supportDesc>
+						</objectDesc>
+					</physDesc>
+					<history>
+						<origin>
+							<origDate calendar="Gregorian" notBefore="1850" notAfter="1851">1850-1851</origDate>
+							<origPlace>
+								<country ref="http://viaf.org/viaf/142995804">England</country>,
+									<placeName ref="http://viaf.org/viaf/145353708">Manchester</placeName>
+							</origPlace>
+						</origin>
+					</history>
+					<additional>
+						<adminInfo>
+							<availability status="restricted">
+								<p>The manuscript is available for consultation by any accredited
+									reader.</p>
+							</availability>
+						</adminInfo>
+						<listBibl>
+							<bibl>Recorded in University of Manchester <ref target="https://www.librarysearch.manchester.ac.uk/permalink/44MAN_INST/elks2a/alma9911466774401631">Library Search</ref></bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy xml:id="LCSH">
+					<bibl>
+						<ref target="http://id.loc.gov/authorities/subjects.html#lcsh">Library of
+							Congress Subject Headings</ref>
+					</bibl>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords scheme="#LCSH">
+					<list>
+						<item>
+							<term>Manchester -- Map.</term>
+						</item>
+						<item>
+							<term target="http://id.loc.gov/authorities/names/n81042321">Manchester
+								(England)</term>
+						</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+         	<change when="2020-06-25">
+            	<persName>Donna Sherman</persName>
+        	</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+        <graphic decls="#document-thumbnail" rend="landscape" url="PR-C-00017-00070-MANCHESTER-00022-000-00001.jp2"/>
+        <surface xml:id="i1" n="1">
+            <graphic n="JRL1300166" decls="#downloadImageRights #download" rend="landscape" height="5290px" width="7000px" url="PR-C-00017-00070-MANCHESTER-00022-000-00001.jp2"/>
+        </surface>
+        <surface xml:id="i2" n="2">
+            <graphic n="JRL1300167" decls="#downloadImageRights #download" rend="landscape" height="4948px" width="6700px" url="PR-C-00017-00070-MANCHESTER-00022-000-00002.jp2"/>
+        </surface>
+        <surface xml:id="i3" n="3">
+            <graphic n="JRL1300168" decls="#downloadImageRights #download" rend="landscape" height="4948px" width="6700px" url="PR-C-00017-00070-MANCHESTER-00022-000-00003.jp2"/>
+        </surface>
+        <surface xml:id="i4" n="4">
+            <graphic n="JRL1300169" decls="#downloadImageRights #download" rend="landscape" height="4936px" width="6700px" url="PR-C-00017-00070-MANCHESTER-00022-000-00004.jp2"/>
+        </surface>
+        <surface xml:id="i5" n="5">
+            <graphic n="JRL1300170" decls="#downloadImageRights #download" rend="landscape" height="5290px" width="7000px" url="PR-C-00017-00070-MANCHESTER-00022-000-00005.jp2"/>
+        </surface>
+        <surface xml:id="i6" n="6">
+            <graphic n="JRL1300171" decls="#downloadImageRights #download" rend="landscape" height="5084px" width="7000px" url="PR-C-00017-00070-MANCHESTER-00022-000-00006.jp2"/>
+        </surface>
+        <surface xml:id="i7" n="7">
+            <graphic n="JRL1300172" decls="#downloadImageRights #download" rend="landscape" height="4908px" width="6700px" url="PR-C-00017-00070-MANCHESTER-00022-000-00007.jp2"/>
+        </surface>
+        <surface xml:id="i8" n="8">
+            <graphic n="JRL1300173" decls="#downloadImageRights #download" rend="landscape" height="5346px" width="7000px" url="PR-C-00017-00070-MANCHESTER-00022-000-00008.jp2"/>
+        </surface>
+        <surface xml:id="i9" n="9">
+            <graphic n="JRL1300174" decls="#downloadImageRights #download" rend="landscape" height="5290px" width="7000px" url="PR-C-00017-00070-MANCHESTER-00022-000-00009.jp2"/>
+        </surface>
+        <surface xml:id="i10" n="10">
+            <graphic n="JRL1300175" decls="#downloadImageRights #download" rend="landscape" height="5057px" width="6700px" url="PR-C-00017-00070-MANCHESTER-00022-000-00010.jp2"/>
+        </surface>
+        <surface xml:id="i11" n="11">
+            <graphic n="JRL1300176" decls="#downloadImageRights #download" rend="landscape" height="5084px" width="6700px" url="PR-C-00017-00070-MANCHESTER-00022-000-00011.jp2"/>
+        </surface>
+        <surface xml:id="i12" n="12">
+            <graphic n="JRL1300177" decls="#downloadImageRights #download" rend="landscape" height="4929px" width="6700px" url="PR-C-00017-00070-MANCHESTER-00022-000-00012.jp2"/>
+        </surface>
+        <surface xml:id="i13" n="13">
+            <graphic n="JRL1300178" decls="#downloadImageRights #download" rend="landscape" height="5290px" width="7000px" url="PR-C-00017-00070-MANCHESTER-00022-000-00013.jp2"/>
+        </surface>
+        <surface xml:id="i14" n="14">
+            <graphic n="JRL1300179" decls="#downloadImageRights #download" rend="landscape" height="5035px" width="6700px" url="PR-C-00017-00070-MANCHESTER-00022-000-00014.jp2"/>
+        </surface>
+        <surface xml:id="i15" n="15">
+            <graphic n="JRL1300180" decls="#downloadImageRights #download" rend="landscape" height="5038px" width="6700px" url="PR-C-00017-00070-MANCHESTER-00022-000-00015.jp2"/>
+        </surface>
+        <surface xml:id="i16" n="16">
+            <graphic n="JRL1300181" decls="#downloadImageRights #download" rend="landscape" height="5138px" width="6700px" url="PR-C-00017-00070-MANCHESTER-00022-000-00016.jp2"/>
+        </surface>
+        <surface xml:id="i17" n="17">
+            <graphic n="JRL1300182" decls="#downloadImageRights #download" rend="landscape" height="4966px" width="6700px" url="PR-C-00017-00070-MANCHESTER-00022-000-00017.jp2"/>
+        </surface>
+        <surface xml:id="i18" n="18">
+            <graphic n="JRL1300183" decls="#downloadImageRights #download" rend="landscape" height="5020px" width="6700px" url="PR-C-00017-00070-MANCHESTER-00022-000-00018.jp2"/>
+        </surface>
+        <surface xml:id="i19" n="19">
+            <graphic n="JRL1300184" decls="#downloadImageRights #download" rend="landscape" height="4968px" width="6700px" url="PR-C-00017-00070-MANCHESTER-00022-000-00019.jp2"/>
+        </surface>
+        <surface xml:id="i20" n="20">
+            <graphic n="JRL1300185" decls="#downloadImageRights #download" rend="landscape" height="5052px" width="6700px" url="PR-C-00017-00070-MANCHESTER-00022-000-00020.jp2"/>
+        </surface>
+        <surface xml:id="i21" n="21">
+            <graphic n="JRL1300186" decls="#downloadImageRights #download" rend="landscape" height="4715px" width="6700px" url="PR-C-00017-00070-MANCHESTER-00022-000-00021.jp2"/>
+        </surface>
+        <surface xml:id="i22" n="22">
+            <graphic n="JRL1300187" decls="#downloadImageRights #download" rend="landscape" height="4774px" width="6700px" url="PR-C-00017-00070-MANCHESTER-00022-000-00022.jp2"/>
+        </surface>
+        <surface xml:id="i23" n="23">
+            <graphic n="JRL1300188" decls="#downloadImageRights #download" rend="landscape" height="5290px" width="7000px" url="PR-C-00017-00070-MANCHESTER-00022-000-00023.jp2"/>
+        </surface>
+        <surface xml:id="i24" n="24">
+            <graphic n="JRL1300189" decls="#downloadImageRights #download" rend="landscape" height="5235px" width="7000px" url="PR-C-00017-00070-MANCHESTER-00022-000-00024.jp2"/>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div>
+                <pb n="1" xml:id="pb-1" facs="#i1"/>
+                <pb n="2" xml:id="pb-2" facs="#i2"/>
+                <pb n="3" xml:id="pb-3" facs="#i3"/>
+                <pb n="4" xml:id="pb-4" facs="#i4"/>
+                <pb n="5" xml:id="pb-5" facs="#i5"/>
+                <pb n="6" xml:id="pb-6" facs="#i6"/>
+                <pb n="7" xml:id="pb-7" facs="#i7"/>
+                <pb n="8" xml:id="pb-8" facs="#i8"/>
+                <pb n="9" xml:id="pb-9" facs="#i9"/>
+                <pb n="10" xml:id="pb-10" facs="#i10"/>
+                <pb n="11" xml:id="pb-11" facs="#i11"/>
+                <pb n="12" xml:id="pb-12" facs="#i12"/>
+                <pb n="13" xml:id="pb-13" facs="#i13"/>
+                <pb n="14" xml:id="pb-14" facs="#i14"/>
+                <pb n="15" xml:id="pb-15" facs="#i15"/>
+                <pb n="16" xml:id="pb-16" facs="#i16"/>
+                <pb n="17" xml:id="pb-17" facs="#i17"/>
+                <pb n="18" xml:id="pb-18" facs="#i18"/>
+                <pb n="19" xml:id="pb-19" facs="#i19"/>
+                <pb n="20" xml:id="pb-20" facs="#i20"/>
+                <pb n="21" xml:id="pb-21" facs="#i21"/>
+                <pb n="22" xml:id="pb-22" facs="#i22"/>
+                <pb n="23" xml:id="pb-23" facs="#i23"/>
+                <pb n="24" xml:id="pb-24" facs="#i24"/>
+            </div>
+        </body>
+    </text>
+</TEI>

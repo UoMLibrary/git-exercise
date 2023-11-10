@@ -8,7 +8,7 @@
 
 
          <titleStmt>
-            <title>Drink map of Manchester</title>
+            <title>"Geographia" plan of Manchester</title>
             <respStmt>
                <resp> Conversion to TEI encoding</resp>
                <name> Reetu Child</name>
@@ -32,7 +32,7 @@
                   <addrLine><email>uml.special-collections@manchester.ac.uk</email></addrLine>
                </address>
             </pubPlace>
-            <idno>C17:70 Manchester (3)</idno>
+            <idno>C17:70 Manchester (28)</idno>
             <availability xml:id="displayImageRights" status="restricted">
 					<p>Zooming image © University of Manchester Library, All rights reserved.</p>
 				</availability>
@@ -56,29 +56,25 @@
                   <repository>Main Library Special Collections</repository>
                   <collection>Map Collection (Flat)</collection>
 
-                  <idno>C17:70 Manchester (3)</idno>
+                  <idno>C17:70 Manchester (28)</idno>
 
                </msIdentifier>
 
                <msContents>
                   <summary>
-                     <seg type="para">This is a reproduction of a document prepared for the
-                        information and use of the City Magistrates. It appeared in the Manchester
-                        Guardian January 5th 1889. Beerhouses are indicated with a circular dot.
-                        Licensed victuallers are indicated by a triangular symbol. Licensed grocers
-                        are indicated by a square mark. Premises selling beer are marked by the
-                        symbol L. Premises selling "sweets" (British wines) are marked with the
-                        symbol O. Wholesale dealers are marked X.</seg>
+                     <seg type="para">Large scale coloured plan. Shows an inset of Manchester's
+                        environs and another of Withington in detail. </seg>
                   </summary>
 
                   <msItem>
-                     <title>Drink map of Manchester</title>
-
+                     <title>"Geographia" plan of Manchester</title>
+                     <title type="alt">Plan of Manchester and Salford</title>
 
                      <textLang mainLang="eng">English</textLang>
 
 
-                     <editor key="person_v133261264" ref="http://viaf.org/viaf/133261264" role="pbl">United Kingdom Alliance</editor>
+                     <editor key="person_v55444117" ref="http://viaf.org/viaf/55444117" role="ctg">Gross, Alexander, 1879-1958</editor><editor key="person_v163146331787218690530" ref="http://viaf.org/viaf/163146331787218690530" role="pbl">Geographia Ltd. (London)</editor>
+                     <note type="scale">1 mile = 120 mm.</note>
 
                   </msItem>
                </msContents>
@@ -91,7 +87,8 @@
                         <support>
                            <material>Paper</material>
                         </support>
-                        <extent>1 map; coloured; map: 600 x 440 mm; sheet: 710 x 580 mm. </extent>
+                        <extent>1 map; coloured; map: 720 x 960 mm; sheet: 740 x 1000 mm, folded to
+                           210 x 130 mm in illustrated cover. </extent>
 
 
 
@@ -109,14 +106,15 @@
 
 
 
+
+
                </physDesc>
 
                <history>
-
                   <origin>
-                     <origDate calendar="Gregorian" notBefore="1889" notAfter="1889">1889</origDate>
-                     <origPlace><country ref="http://viaf.org/viaf/142995804">England</country>,<placeName ref="http://viaf.org/viaf/145353708">
-                           Manchester </placeName></origPlace>
+                     <origDate calendar="Gregorian" notBefore="1913" notAfter="1913">[1913]</origDate>
+                     <origPlace><country ref="http://viaf.org/viaf/142995804">England</country>,<placeName ref="http://viaf.org/viaf/261467287">
+                           London </placeName></origPlace>
                   </origin>
 
                </history>
@@ -124,7 +122,7 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Description derived from <ref target="http://man.ac.uk/Ks0ItN">University of Manchester Library Search.</ref></source>
+                        <source>Description derived from <ref target="http://man.ac.uk/GU9Iuc">University of Manchester Library Search.</ref></source>
                      </recordHist>
 
                      <availability status="restricted">
@@ -163,11 +161,7 @@
                         (England)</term>
                   </item>
                   <item>
-                     <term>Great Britain--Social history</term>
-                  </item>
-                  <item>
-                     <term key="subject_sh2011003686">Bars
-                        (Drinking establishments)--England </term>
+                     <term>Manchester (England)--Maps</term>
                   </item>
 
                </list>
@@ -176,7 +170,6 @@
             </keywords>
          </textClass>
       </profileDesc>
-
       <revisionDesc>
          <change when="2019-08-01">
             <persName>Reetu Child</persName>
@@ -184,9 +177,9 @@
       </revisionDesc>
    </teiHeader>
    <facsimile>
-        <graphic decls="#document-thumbnail" rend="portrait" url="PR-C-00017-00070-MANCHESTER-00003-000-00001.jp2"/>
+        <graphic decls="#document-thumbnail" rend="landscape" url="PR-C-00017-00070-MANCHESTER-00028-000-00001.jp2"/>
         <surface xml:id="i1" n="1">
-            <graphic n="JRL1000002DC" decls="#downloadImageRights #download" rend="portrait" height="6500px" width="5289px" url="PR-C-00017-00070-MANCHESTER-00003-000-00001.jp2"/>
+            <graphic n="JRL17081363" decls="#downloadImageRights #download" rend="landscape" height="4872px" width="6500px" url="PR-C-00017-00070-MANCHESTER-00028-000-00001.jp2"/>
         </surface>
     </facsimile>
     <text>

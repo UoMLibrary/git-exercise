@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>The proposed Manchester Ship Canal : shewing:- map of the district, map of
+					the British Isles, section and plan of the ship canal, with map of Manchester,
+					Salford, and the out-townships and explanatory notes.</title>
+				<respStmt>
+					<resp>Conversion to TEI encoding</resp>
+					<name>Donna Sherman</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>The University of Manchester Library</publisher>
+				<date calendar="Gregorian">2020</date>
+				<pubPlace>
+					<address>
+						<addrLine>The John Rylands Library</addrLine>
+						<street>150 Deansgate</street>
+						<settlement>Manchester</settlement>
+						<postCode>M3 3EH</postCode>
+						<addrLine>
+							<ref target="http://www.library.manchester.ac.uk/specialcollections/">The John Rylands Library</ref>
+						</addrLine>
+						<addrLine>
+							<email>uml.special-collections@manchester.ac.uk</email>
+						</addrLine>
+					</address>
+				</pubPlace>
+				<idno>UkMaJRU-MLSC-MAPD-C17:41 (25)</idno>
+				<availability xml:id="displayImageRights" status="restricted">
+					<p>Zooming image © University of Manchester Library, All rights reserved.</p>
+				</availability>
+				<availability xml:id="downloadImageRights" status="restricted">
+					<licence>Images and Metadata made available for download are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).</licence>
+				</availability>
+				<availability xml:id="metadataRights" status="restricted">
+					<licence>Images and Metadata made available for download are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:lang="eng">
+					<msIdentifier>
+						<country>United Kingdom</country>
+						<region type="county">Greater Manchester</region>
+						<settlement>Manchester</settlement>
+						<institution>The University of Manchester Library</institution>
+						<repository>Main Library Special Collections</repository>
+						<collection>Map Collection (Flat)</collection>
+						<idno>C17:41 (25)</idno>
+					</msIdentifier>
+					<head/>
+					<msContents>
+						<summary>
+							<seg type="para"> Proposed Manchester Ship Canal. Inset is a map showing
+								map of the district; map of the British Isles; sections and plan of
+								the ship canal with, map of Manchester, Salford, and the
+								out-townships forming Greater Manchester. Printed for Henry
+								Boddington, Junr., Strangeways Brewery, Manchester.</seg>
+						</summary>
+						<msItem>
+							<title>The proposed Manchester Ship Canal : shewing: map of the
+								district, map of the British Isles, section and plan of the ship
+								canal, with map of Manchester, Salford, and the out-townships and
+								explanatory notes.</title>
+							<textLang mainLang="eng">English</textLang>
+							<editor role="prt"/>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc form="maps">
+							<supportDesc material="paper">
+								<support>
+									<material>Paper</material>
+								</support>
+								<extent> 1 map, 520 x 760 mm. on sheet 550 x 780 mm. </extent>
+							</supportDesc>
+						</objectDesc>
+					</physDesc>
+					<history>
+						<origin>
+							<origDate calendar="Gregorian" when="1882">1882</origDate>
+							<origPlace>
+							<country ref="http://viaf.org/viaf/142995804">England</country>,
+								<placeName ref="http://viaf.org/viaf/145353708">Manchester</placeName>
+							</origPlace>
+						</origin>
+					</history>
+					<additional>
+						<adminInfo>
+							<availability status="restricted">
+								<p>The manuscript is available for consultation by any accredited
+									reader.</p>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>Recorded in University of Manchester <ref target="https://www.librarysearch.manchester.ac.uk/permalink/44MAN_INST/elks2a/alma9923097534401631">Library Search</ref></bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy xml:id="LCSH">
+					<bibl>
+						<ref target="http://id.loc.gov/authorities/subjects.html#lcsh">Library of
+							Congress Subject Headings</ref>
+					</bibl>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords scheme="#LCSH">
+					<list>
+						<item>
+							<term key="subject_sh96001099">Manchester Ship Canal (England)</term>
+						</item>
+						<item>
+							<term target="http://id.loc.gov/authorities/names/n81042321">Manchester
+								(England)</term>
+						</item>
+						<item>
+							<term target="http://id.loc.gov/authorities/names/n81018209">Cheshire
+								(England)</term>
+						</item>
+						<item>
+							<term target="http://id.loc.gov/authorities/names/n79043438">Lancashire
+								(England)</term>
+						</item>
+						<item>
+							<term target="http://id.loc.gov/authorities/names/n80050950">Liverpool
+								(England)</term>
+						</item>
+						<item>
+							<term target="http://id.loc.gov/authorities/names/n79128933">Salford
+								(Greater Manchester, England)</term>
+						</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+         	<change when="2020-06-25">
+            	<persName>Donna Sherman</persName>
+        	</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+        <graphic decls="#document-thumbnail" rend="landscape" url="PR-C-00017-00041-00025-000-00001.jp2"/>
+        <surface xml:id="i1" n="1">
+            <graphic n="JRL1300193" decls="#downloadImageRights #download" rend="landscape" height="4680px" width="6700px" url="PR-C-00017-00041-00025-000-00001.jp2"/>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div>
+                <pb n="1" xml:id="pb-1" facs="#i1"/>
+            </div>
+        </body>
+    </text>
+</TEI>

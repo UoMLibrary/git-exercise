@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>A plan of the towns of Manchester &amp; Salford in the county palatine of
+					Lancaster.</title>
+				<respStmt>
+					<resp>Conversion to TEI encoding</resp>
+					<name>Donna Sherman</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>The University of Manchester Library</publisher>
+				<date calendar="Gregorian">2020</date>
+				<pubPlace>
+					<address>
+						<addrLine>The John Rylands Library</addrLine>
+						<street>150 Deansgate</street>
+						<settlement>Manchester</settlement>
+						<postCode>M3 3EH</postCode>
+						<addrLine>
+							<ref target="http://www.library.manchester.ac.uk/specialcollections/">The John Rylands Library</ref>
+						</addrLine>
+						<addrLine>
+							<email>uml.special-collections@manchester.ac.uk</email>
+						</addrLine>
+					</address>
+				</pubPlace>
+				<idno>MLSC-MAPD-C17:70 Manchester (57)</idno>
+				<availability xml:id="displayImageRights" status="restricted">
+					<p>Zooming image © University of Manchester Library, All rights reserved.</p>
+				</availability>
+				<availability xml:id="downloadImageRights" status="restricted">
+					<licence>Images and Metadata made available for download are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).</licence>
+				</availability>
+				<availability xml:id="metadataRights" status="restricted">
+					<licence>Images and Metadata made available for download are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:lang="eng">
+					<msIdentifier>
+						<country>United Kingdom</country>
+						<region type="county">Greater Manchester</region>
+						<settlement>Manchester</settlement>
+						<institution>The University of Manchester Library</institution>
+						<repository>Main Library Special Collections</repository>
+						<collection>Map Collection (Flat)</collection>
+						<idno>C17:70 Manchester (57)</idno>
+					</msIdentifier>
+					<head/>
+					<msContents>
+						<summary>
+							<seg type="para"> Third version of series of maps published by Casson
+								and Berry between 1741 and 1757. Wide border of oak leaves, with
+								shell at each corner and scale in bottom centre of border. Down each
+								side, 'Description of the towns of Manchester and Salford' and a
+								reference to streets and buildings of note'. Inset right, the 1650
+								plan; at foot of sheet, the South-west prospect of Manchester &amp;
+								Salford. Below the view of St. Ann's Square, an advertisement.
+								Engravings: B. Cole. sculp. [printed by] Palmer &amp; Howe, Manchester.
+								Plan contains eighteen views. Undated. With features from the 1746
+								edition: new engravings of the houses of Miles Bower and Mr.
+								Johnson. From Berry's advertisement: Printed for and sold only by
+								Jn. Berry, grocer, at the New Tea Ware-house in Manchester. </seg>
+						</summary>
+						<msItem>
+							<title>A plan of the towns of Manchester &amp; Salford in the county
+								palatine of Lancaster.</title>
+							<title type="alt">Plan of the towns of Manchester and Salford</title>
+							<textLang mainLang="eng">English</textLang>
+							<editor role="pbl">Berry, John</editor><editor role="pbl">Casson, Russel</editor><editor role="egr">Cole, Benjamin, 1696 or
+										1697-1783</editor><editor role="prt"/>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc form="maps">
+							<supportDesc material="paper">
+								<support>
+									<material>Paper</material>
+								</support>
+								<extent> 1 map, 510 x 530 mm., on sheet 640 x 1060 mm. 
+								</extent>
+							</supportDesc>
+						</objectDesc>
+					</physDesc>
+					<history>
+						<origin>
+							<origDate calendar="Gregorian" notBefore="1741" notAfter="1751">c.1746</origDate>
+							<origPlace>
+								<country ref="http://viaf.org/viaf/142995804">England</country>,
+							    <placeName ref="http://viaf.org/viaf/145353708">Manchester</placeName>
+							</origPlace>
+						</origin>
+					</history>
+					<additional>
+						<adminInfo>
+							<availability status="restricted">
+								<p>The manuscript is available for consultation by any accredited
+									reader.</p>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>Recorded in University of Manchester <ref target="https://www.librarysearch.manchester.ac.uk/permalink/44MAN_INST/elks2a/alma992975791198101631">Library Search</ref></bibl>
+							<bibl>Lee, J., Maps and Plans of Manchester</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy xml:id="LCSH">
+					<bibl>
+						<ref target="http://id.loc.gov/authorities/subjects.html#lcsh">Library of
+							Congress Subject Headings</ref>
+					</bibl>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords scheme="#LCSH">
+					<list>
+						<item>
+							<term>Greater Manchester (England) -- Maps -- Early works to
+								1800.</term>
+						</item>
+						<item>
+							<term>Salford (Greater Manchester, England) -- Maps. -- Early works to
+								1800.</term>
+						</item>
+						<item>
+							<term>Maps -- Greater Manchester -- 18th century.</term>
+						</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+         	<change when="2020-06-25">
+            	<persName>Donna Sherman</persName>
+        	</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+        <graphic decls="#document-thumbnail" rend="landscape" url="PR-C-00017-00070-MANCHESTER-00057-000-00001.jp2"/>
+        <surface xml:id="i1" n="1">
+            <graphic n="JRL19120432" decls="#downloadImageRights #download" rend="landscape" height="4063px" width="6500px" url="PR-C-00017-00070-MANCHESTER-00057-000-00001.jp2"/>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div>
+                <pb n="1" xml:id="pb-1" facs="#i1"/>
+            </div>
+        </body>
+    </text>
+</TEI>
