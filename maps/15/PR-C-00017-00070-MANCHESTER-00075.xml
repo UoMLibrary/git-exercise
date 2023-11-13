@@ -206,6 +206,10 @@
  	<change when="2023-11-13">
             <persName>Ian Gifford</persName>
          </change>
+	<change when="2023-11-13">
+            <persName>Jim Jam</persName>
+         </change>
+
       </revisionDesc>
    </teiHeader>
    <facsimile>
