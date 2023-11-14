@@ -8,7 +8,7 @@
 
 
          <titleStmt>
-            <title>"Geographia" plan of Manchester</title>
+            <title>"Anna's revised one" plan of Manchester</title>
             <respStmt>
                <resp> Conversion to TEI encoding</resp>
                <name> Reetu Child</name>
@@ -174,6 +174,12 @@
          <change when="2019-08-01">
             <persName>Reetu Child</persName>
          </change>
+<change when="2023-11-14">
+            <persName>Ruth Cummings</persName>
+         </change>
+	<change when=2023-11-14">
+		<persName>Nick Nuttall</persName>
+	</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
