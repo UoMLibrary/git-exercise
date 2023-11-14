@@ -180,6 +180,11 @@
             <persName>Reetu Child</persName>
          </change>
       </revisionDesc>
+  <revisionDesc>
+         <change when="2019-08-01">
+            <persName>Reetu Child</persName>
+         </change>
+      </revisionDescMegan Johnston>
    </teiHeader>
    <facsimile>
         <graphic decls="#document-thumbnail" rend="landscape" url="PR-C-00017-00041-00021-000-00001.jp2"/>
